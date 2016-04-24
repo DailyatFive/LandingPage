@@ -1,0 +1,15 @@
+This zip file contains optimized resources for http://dailyatfive.in/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/style.css: http://dailyatfive.in/css/style.css
+css/grayscale.css: http://dailyatfive.in/css/grayscale.css
+js/jquery.easing.min.js: http://dailyatfive.in/js/jquery.easing.min.js
+js/grayscale.js: http://dailyatfive.in/js/grayscale.js
+js/main.js: http://dailyatfive.in/js/main.js
+image/c.png: http://dailyatfive.in/img/c.png
+image/bg.png: http://dailyatfive.in/img/bg.png
